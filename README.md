@@ -2,6 +2,7 @@
 
 A simple fake Wi-Fi adapter module for PCIe BAR emulation.  
 This project is intended for testing, fuzzing, and development environments where simulating Wi-Fi behavior is required without real network hardware.
+Inspired by [pcileech-Fakeconnect](https://github.com/fif5o/pcileech-Fakeconnect).
 
 ## Features
 - Simulates 4 different fake Wi-Fi SSIDs: `Home`, `Cafe`, `Boss`, `Free`
